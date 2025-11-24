@@ -47,3 +47,7 @@ credentials.json
 
 # Ignore IDE project files
 .idea/
+
+# Temp / runner files
+tempCodeRunnerFile.py
+.env
